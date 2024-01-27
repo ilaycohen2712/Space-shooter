@@ -23,11 +23,11 @@ Multiple stages with increasing difficulty levels.
 Various enemy ships and obstacles to challenge your skills.
 Power-ups to enhance your spaceship's capabilities.
 High scores to track your progress and compete with friends.
-Main Menu
-screenshots/gameplay1.png
+# Main Menu
+screenShots/first.png
 
-How The Game Start
-screenshots/gameplay2.png
+ # How The Game Start
+screenShots/second.png
 
-The Game Itself
-screenshots/gameplay3.png
+# The Game Itself
+screenShots/third.png
